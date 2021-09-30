@@ -3,7 +3,7 @@
 import cv2 as cv 
 import numpy as np 
 
-img = cv.imread('Photos/starry_sky.jpg')
+img = cv.imread('OpenCV Python/Photos/starry_sky.jpg')
 
 cv.imshow('Starry sky', img) 
 

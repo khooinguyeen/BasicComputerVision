@@ -3,7 +3,7 @@
 import cv2 as cv
 import numpy as np
 
-img = cv.imread('Photos/snow.jpg')
+img = cv.imread('OpenCV Python/Photos/snow.jpg')
 cv.imshow('Snow', img)
 
 

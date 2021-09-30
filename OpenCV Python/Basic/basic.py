@@ -2,7 +2,7 @@
 
 import cv2 as cv
 
-img = cv.imread('Photos/snow.jpg')
+img = cv.imread('OpenCV Python/Photos/snow.jpg')
 cv.imshow('Snow', img)
 
 # Converting to gray scale (đen trắng)
